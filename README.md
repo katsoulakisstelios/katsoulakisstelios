@@ -2,7 +2,7 @@
 
 I’m an IBDP student, passionate about STEM both, in theoretical (math/physics) and practical (engineering design and apps) setups.
 
-# Academic Milestones
+**Academic Milestones**
 * Math Olympiad: Gold Medalist 🥇
 * Physics Olympiad: Gold Medalist 🥇
 * Focus: Applying AI and ML in real-world problems in Engineering and Finance.
