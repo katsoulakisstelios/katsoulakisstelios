@@ -7,7 +7,7 @@ I’m an IBDP student, passionate about STEM both, in theoretical (math/physics)
 * Physics Olympiad: Gold Medalist 🥇
 * Focus: Applying AI and ML in real-world problems in Engineering and Finance.
 
-# Why Engineering?
+**Why Engineering?**
 * I am passionate about F1 racing with particular interest in aerodynamics, telemetry, and the split-second data processing. In that context, I am currently
 designing and developing a scale Formula 1 prototype using industry-standard CAD and CFD tools/simulations as part of the STEM Racing program.
 ---
